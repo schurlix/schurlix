@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @schurlix
 - 👀 I’m interested in teaching and learning
-- 🌱 I’m currently learning C# 
+- 🌱 I’m currently learning C#, vaadin, javascript
 - 💞️ I’m looking to collaborate on Beispielaufgaben für die HTL
 - 📫 How to reach me ... georg@graf.priv.at
 
